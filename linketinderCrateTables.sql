@@ -27,7 +27,7 @@ CREATE TABLE "Vaga" (
   "city" varchar,
   "state" varchar(2),
   "empresa_id" int,
-  "created_at" timestamp
+  "created_at" TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 CREATE TABLE "Candidato_Vaga" (
