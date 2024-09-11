@@ -52,6 +52,10 @@
 - `empresa_id` (FK para `Empresa.id`)
 - `candidato_id` (FK para `Candidato.id`)
 
+## Tecnologias Utilizadas
+- DBDiagram.io
+- PostgresSQL
+- PgAdmin
 
 ## Relacionamentos
 
